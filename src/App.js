@@ -1,8 +1,10 @@
+import React from "react";
+
+import Login from "./view/login";
+
 function App() {
   return (
-    <div>
-      Teste
-    </div>
+    <Login />
   );
 }
 
